@@ -1,0 +1,13 @@
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\bin\Debug\SuperAdventure.exe
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\bin\Debug\SuperAdventure.pdb
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\bin\Debug\Engine.dll
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\bin\Debug\Engine.pdb
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.exe
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.pdb
+D:\Users\HUAWEI\Desktop\study\C#\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
